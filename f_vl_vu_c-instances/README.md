@@ -5,3 +5,5 @@
 * f0.4 folder consists of  700 instances with the interval of weights (0.4c, 0.6c]
 
 Each instance name has the format fvl_vu_c, where vl and vu represent the lower and upper bounds of the weights, respectively, and c the capacities of the bins. These capacities are 10^3, 10^4, 10^5, 10^6, 10^7, 10^8, and, 10^9.
+
+The file "instances.txt" contains the names of all the instances.
